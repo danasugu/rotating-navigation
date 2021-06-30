@@ -18,6 +18,6 @@ body {
   background-color:#fafafa;
 }
 
-.container-.show-nav {
+.container.show-nav {
   transform: (-20deg);
 }
